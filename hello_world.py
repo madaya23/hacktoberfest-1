@@ -1,2 +1,1 @@
-p="Hello world"
-print(p)
+print("Hello world")
